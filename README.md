@@ -6,7 +6,7 @@ Taller creado por Brayan David Tobar Y Juan David Meneses
 
 Crear una nueva base de datos llamada dinosauriosdb
 la contraseña del usuario de base de datos mariadb es root y la contraseña esta vacia
-Reeestablecer la base de datos dinosaurios.db y ejecutar
+Reeestablecer la base de datos dinosauriosdb.sql y ejecutar
 
 ## Crear nuevos registros
 
